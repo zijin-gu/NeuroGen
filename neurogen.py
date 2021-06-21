@@ -128,7 +128,7 @@ def main():
 				model=model, 
 				classifier=fwrf,
 				maps=fmaps, 
-				num_class=top5_idx[cate],
+				num_class=top_idx[cate],
 				roi=args._class,
 				num_steps=args.steps,
 				lr=args.lr, 
