@@ -129,7 +129,7 @@ def main():
 				classifier=fwrf,
 				maps=fmaps, 
 				num_class=top_idx[cate],
-				roi=args._class,
+				roi=args.roi,
 				num_steps=args.steps,
 				lr=args.lr, 
 				wdecay=0.001,
