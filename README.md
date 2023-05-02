@@ -25,13 +25,18 @@ Supplementary Material can be found here: https://drive.google.com/drive/folders
 
 Note: `getROImask.py`, `getmaskedROI.py` and `getmaskedROImean.py` deal with the NSD data which has not been released yet and are not necessary to run NeuroGen at this time. Paths in all scripts may need to change according to needs.
 
+## Availability
+The NeuroGen synthetic images for all 8 NSD subjects and all ROI mentioned in the paper can be downloaded at [here](https://cornell.box.com/s/jqsosrt46zobzkufrjpush15e4yha3t8).
+
 ## Citation
-@article{gu2022neurogen,\
-  title={NeuroGen: activation optimized image synthesis for discovery neuroscience},\
-  author={Gu, Zijin and Jamison, Keith Wakefield and Khosla, Meenakshi and Allen, Emily J and Wu, Yihan and Naselaris, Thomas and Kay, Kendrick and Sabuncu, Mert R and Kuceyeski, Amy},\
-  journal={NeuroImage},\
-  volume={247},\
-  pages={118812},\
-  year={2022},\
-  publisher={Elsevier}\
+```
+@article{gu2022neurogen,
+  title={NeuroGen: activation optimized image synthesis for discovery neuroscience},
+  author={Gu, Zijin and Jamison, Keith Wakefield and Khosla, Meenakshi and Allen, Emily J and Wu, Yihan and Naselaris, Thomas and Kay, Kendrick and Sabuncu, Mert R and Kuceyeski, Amy},
+  journal={NeuroImage},
+  volume={247},
+  pages={118812},
+  year={2022},
+  publisher={Elsevier}
 }
+```
